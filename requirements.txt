@@ -1,0 +1,13 @@
+aiohttp
+customtkinter
+fastapi
+joblib
+matplotlib
+numpy
+Pillow
+pygame
+pydantic
+requests
+scikit-learn
+uvicorn
+xgboost
